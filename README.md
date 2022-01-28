@@ -23,6 +23,8 @@
 | Ligno.                         | kampulo |   ✅|
 | Oro.                           | kampulo |   ✅|
 | Beroj.                         | kampulo |   ✅|
+| Mi riparos                     | kampulo |   |
+| Mi riparos tion.               | kampulo |   |
 | Kion mi faru?                  | Maristo |   ✅|
 | Trans la maro!                 | maristo |   ✅|
 | Kien ni velu?                  | maristo |   ✅|
@@ -37,6 +39,7 @@
 | Alia mondo eblas.              | pastro  |   ✅|
 | Laŭ via volo!                  | pastro  |   ✅|
 | Jes?                           | pastro  |   ✅|
+| Lernu Esperanton!              | pastro  |   |
 | Mi rajdas!                     | sodato  |   ✅|
 | Kion mi faru?                  | Soldato |   ✅|
 | Enordas                        | soldato |   ✅|
