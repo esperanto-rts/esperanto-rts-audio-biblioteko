@@ -40,6 +40,8 @@
 | Laŭ via volo!                  | pastro  |   ✅|
 | Jes?                           | pastro  |   ✅|
 | Lernu Esperanton!              | pastro  |   |
+| Resaniĝu!                      | pastro  |   |
+| Saneco!                        | pastro  |   |
 | Mi rajdas!                     | sodato  |   ✅|
 | Kion mi faru?                  | Soldato |   ✅|
 | Enordas                        | soldato |   ✅|
