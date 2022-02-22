@@ -62,3 +62,7 @@
 | Jes?                           | soldato |   ✅|
 | Jes!                           | soldato |   ✅|
  
+ 
+ ## Voĉaktoroj
+ 
+ * [Bronxio](https://www.fiverr.com/bronxio_sound) (Ambrosio Barceló)
